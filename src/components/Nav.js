@@ -4,6 +4,6 @@ function Nav() {
     return (
         <div className="nav text-center">
                 <NavItem/>
-              </div>
+        </div>
     );
 }
